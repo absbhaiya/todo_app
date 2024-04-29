@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+A Task Management Mobile Application using Flutter and Firebase.
 
 ## Getting Started
 
